@@ -5,9 +5,8 @@ user-agent: linkspreed
 sites:
   - name: LINKSPREED Website
     url: https://linkspreed.com
-  - name: UIID API
-    url: https://api.example.com/health
-    maxResponseTime: 5000
+  - name: UIID
+    url: https://uiid.linkspreed.com
 
 assignees:
   - linkspreed
