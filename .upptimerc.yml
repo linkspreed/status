@@ -16,4 +16,8 @@ status-website:
   cname: status.linkspreed.com
   theme: dark
 
+commitMessages:
+  commitAuthorName: "linkspreed"
+  commitAuthorEmail: "102324985+linkspreed@users.noreply.github.com"
+
 secrets: []
