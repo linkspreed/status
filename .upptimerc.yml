@@ -13,7 +13,7 @@ assignees:
 
 status-website:
   name: LINKSPREED Status
-  # cname: status.linkspreed.com
+  cname: status.linkspreed.com
   theme: dark
 
 secrets: []
