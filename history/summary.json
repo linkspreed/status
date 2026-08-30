@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/agnt.linkspreed.com.ico",
     "slug": "agnt",
     "status": "down",
-    "uptime": "12.09%",
-    "uptimeDay": "12.09%",
-    "uptimeWeek": "12.09%",
-    "uptimeMonth": "12.09%",
-    "uptimeYear": "12.09%",
+    "uptime": "9.65%",
+    "uptimeDay": "9.65%",
+    "uptimeWeek": "9.65%",
+    "uptimeMonth": "9.65%",
+    "uptimeYear": "9.65%",
     "time": 30,
     "timeDay": 30,
     "timeWeek": 30,
     "timeMonth": 30,
     "timeYear": 30,
     "dailyMinutesDown": {
-      "2026-08-30": 1
+      "2026-08-30": 2
     }
   },
   {
@@ -133,19 +133,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.linkspreed.com.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "33.46%",
-    "uptimeDay": "33.46%",
-    "uptimeWeek": "33.46%",
-    "uptimeMonth": "33.46%",
-    "uptimeYear": "33.46%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 406,
     "timeDay": 406,
     "timeWeek": 406,
     "timeMonth": 406,
     "timeYear": 406,
-    "dailyMinutesDown": {
-      "2026-08-30": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Delta",
