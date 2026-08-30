@@ -14,16 +14,12 @@ sites:
     url: https://trive.web4.one
 
   # linkspreed.com Subdomains
-  - name: AGNT
-    url: https://agnt.linkspreed.com
   - name: AI
     url: https://ai.linkspreed.com
   - name: Arctic
     url: https://arctic.linkspreed.com
   - name: Atrium
     url: https://atrium.linkspreed.com
-  - name: Blog
-    url: https://blog.linkspreed.com
   - name: Delta
     url: https://delta.linkspreed.com
   - name: Devs
