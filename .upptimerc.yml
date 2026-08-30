@@ -13,7 +13,6 @@ assignees:
 
 status-website:
   name: LINKSPREED Status
-  baseUrl: /status        # weglassen, wenn du cname nutzt
   # cname: status.linkspreed.com
   theme: dark
 
