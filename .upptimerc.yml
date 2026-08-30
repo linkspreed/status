@@ -2,11 +2,80 @@ owner: linkspreed
 repo: status
 user-agent: linkspreed
 
+delay: 1000
+
 sites:
+  # Hauptdomains
   - name: LINKSPREED Website
     url: https://linkspreed.com
+  - name: Web4.one
+    url: https://web4.one
+  - name: Trive (Web4)
+    url: https://trive.web4.one
+
+  # linkspreed.com Subdomains
+  - name: AGNT
+    url: https://agnt.linkspreed.com
+  - name: AI
+    url: https://ai.linkspreed.com
+  - name: Arctic
+    url: https://arctic.linkspreed.com
+  - name: Atrium
+    url: https://atrium.linkspreed.com
+  - name: Blog
+    url: https://blog.linkspreed.com
+  - name: Delta
+    url: https://delta.linkspreed.com
+  - name: Devs
+    url: https://devs.linkspreed.com
+  - name: Everything
+    url: https://everything.linkspreed.com
+  - name: Flow
+    url: https://flow.linkspreed.com
+  - name: Glacier
+    url: https://glacier.linkspreed.com
+  - name: Gravity51
+    url: https://gravity51.linkspreed.com
+  - name: Group
+    url: https://group.linkspreed.com
+  - name: Helion
+    url: https://helion.linkspreed.com
+  - name: Help
+    url: https://help.linkspreed.com
+  - name: Horizon
+    url: https://horizon.linkspreed.com
+  - name: Investors
+    url: https://investors.linkspreed.com
+  - name: Legal
+    url: https://legal.linkspreed.com
+  - name: LSP
+    url: https://lsp.linkspreed.com
+  - name: MLM
+    url: https://mlm.linkspreed.com
+  - name: Opensource
+    url: https://opensource.linkspreed.com
+  - name: Partner
+    url: https://partner.linkspreed.com
+  - name: Pi
+    url: https://pi.linkspreed.com
+  - name: Search
+    url: https://search.linkspreed.com
+  - name: Source
+    url: https://source.linkspreed.com
+  - name: Status
+    url: https://status.linkspreed.com
+  - name: Super
+    url: https://super.linkspreed.com
+  - name: Trive
+    url: https://trive.linkspreed.com
   - name: UIID
     url: https://uiid.linkspreed.com
+  - name: Vivon
+    url: https://vivon.linkspreed.com
+  - name: Wynix
+    url: https://wynix.linkspreed.com
+  - name: Y
+    url: https://y.linkspreed.com
 
 assignees:
   - linkspreed
@@ -14,7 +83,7 @@ assignees:
 status-website:
   name: LINKSPREED Status
   cname: status.linkspreed.com
-  theme: dark
+  theme: light
 
 commitMessages:
   commitAuthorName: "linkspreed"
