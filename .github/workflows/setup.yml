@@ -6,7 +6,7 @@
 # Your changes will be overwritten when the Upptime template updates (by default, weekly)
 # Instead, change .upptimerc.yml configuration and the workflows will be generated accordingly.
 #
-# 🔼 Upptime @v1.43.16
+# 🔼 Upptime @v1.44.0
 # GitHub-powered open-source uptime monitor and status page by Anand Chowdhary
 
 # * Source: https://github.com/upptime/upptime
@@ -29,39 +29,52 @@ jobs:
   release:
     name: Setup Upptime
     runs-on: ubuntu-latest
+    env:
+      GH_APP_PRIVATE_KEY: ${{ secrets.GH_APP_PRIVATE_KEY }}
     steps:
+      - name: Create GitHub App token
+        id: app_token
+        if: ${{ vars.GH_APP_ID != '' && env.GH_APP_PRIVATE_KEY != '' }}
+        uses: actions/create-github-app-token@v3
+        with:
+          client-id: ${{ vars.GH_APP_ID }}
+          private-key: ${{ env.GH_APP_PRIVATE_KEY }}
+      - name: Clear GitHub App private key
+        if: ${{ always() }}
+        shell: bash
+        run: echo "GH_APP_PRIVATE_KEY=" >> "$GITHUB_ENV"
       - name: Checkout
         uses: actions/checkout@v6
         with:
           ref: ${{ github.head_ref || github.ref_name }}
-          token: ${{ secrets.GH_PAT || github.token }}
+          token: ${{ steps.app_token.outputs.token || secrets.GH_PAT || github.token }}
       - name: Update template
-        uses: upptime/uptime-monitor@v1.43.16
+        uses: upptime/uptime-monitor@v1.44.0
         with:
           command: "update-template"
         env:
-          GH_PAT: ${{ secrets.GH_PAT || github.token }}
+          GH_PAT: ${{ steps.app_token.outputs.token || secrets.GH_PAT || github.token }}
       - name: Update response time
-        uses: upptime/uptime-monitor@v1.43.16
+        uses: upptime/uptime-monitor@v1.44.0
         with:
           command: "response-time"
         env:
-          GH_PAT: ${{ secrets.GH_PAT || github.token }}
+          GH_PAT: ${{ steps.app_token.outputs.token || secrets.GH_PAT || github.token }}
           # Configure the secret allowlist in .upptimerc.yml; do not edit this workflow directly.
           SECRETS_CONTEXT: '{}'
       - name: Update summary in README
-        uses: upptime/uptime-monitor@v1.43.16
+        uses: upptime/uptime-monitor@v1.44.0
         with:
           command: "readme"
         env:
-          GH_PAT: ${{ secrets.GH_PAT || github.token }}
+          GH_PAT: ${{ steps.app_token.outputs.token || secrets.GH_PAT || github.token }}
       - name: Generate graphs
         id: dispatch_graphs
         uses: benc-uk/workflow-dispatch@v1
         continue-on-error: true
         with:
           workflow: Graphs CI
-          token: ${{ secrets.GH_PAT || github.token }}
+          token: ${{ steps.app_token.outputs.token || secrets.GH_PAT || github.token }}
       - name: Setup Node.js for direct graph generation
         if: steps.dispatch_graphs.outcome == 'failure'
         uses: actions/setup-node@v6
@@ -69,21 +82,21 @@ jobs:
           node-version: "20"
       - name: Generate graphs directly if dispatch fails
         if: steps.dispatch_graphs.outcome == 'failure'
-        uses: upptime/uptime-monitor@v1.43.16
+        uses: upptime/uptime-monitor@v1.44.0
         with:
           command: "graphs"
         env:
-          GH_PAT: ${{ secrets.GH_PAT || github.token }}
+          GH_PAT: ${{ steps.app_token.outputs.token || secrets.GH_PAT || github.token }}
       - name: Generate site
-        uses: upptime/uptime-monitor@v1.43.16
+        uses: upptime/uptime-monitor@v1.44.0
         with:
           command: "site"
         env:
-          GH_PAT: ${{ secrets.GH_PAT || github.token }}
+          GH_PAT: ${{ steps.app_token.outputs.token || secrets.GH_PAT || github.token }}
       - uses: peaceiris/actions-gh-pages@v4
         name: GitHub Pages Deploy
         with:
-          github_token: ${{ secrets.GH_PAT || github.token }}
+          github_token: ${{ steps.app_token.outputs.token || secrets.GH_PAT || github.token }}
           publish_dir: "site/status-page/__sapper__/export/"
           force_orphan: "false"
           user_name: "linkspreed"
