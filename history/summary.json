@@ -184,19 +184,19 @@
     "url": "https://glacier.linkspreed.com",
     "icon": "https://icons.duckduckgo.com/ip3/glacier.linkspreed.com.ico",
     "slug": "glacier",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 1228,
-    "timeDay": 954,
-    "timeWeek": 1091,
-    "timeMonth": 1228,
-    "timeYear": 1228,
+    "time": 1226,
+    "timeDay": 931,
+    "timeWeek": 1086,
+    "timeMonth": 1226,
+    "timeYear": 1226,
     "dailyMinutesDown": {
-      "2026-09-28": 3
+      "2026-09-28": 4
     }
   },
   {
@@ -258,19 +258,19 @@
     "url": "https://help.linkspreed.com",
     "icon": "https://icons.duckduckgo.com/ip3/help.linkspreed.com.ico",
     "slug": "help",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 1048,
-    "timeDay": 906,
-    "timeWeek": 961,
-    "timeMonth": 1048,
-    "timeYear": 1048,
+    "time": 1047,
+    "timeDay": 896,
+    "timeWeek": 959,
+    "timeMonth": 1047,
+    "timeYear": 1047,
     "dailyMinutesDown": {
-      "2026-09-28": 3
+      "2026-09-28": 4
     }
   },
   {
@@ -404,19 +404,19 @@
     "url": "https://pi.linkspreed.com",
     "icon": "https://icons.duckduckgo.com/ip3/pi.linkspreed.com.ico",
     "slug": "pi",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 277,
-    "timeDay": 252,
+    "timeDay": 250,
     "timeWeek": 256,
     "timeMonth": 277,
     "timeYear": 277,
     "dailyMinutesDown": {
-      "2026-09-28": 2
+      "2026-09-28": 4
     }
   },
   {
@@ -424,19 +424,19 @@
     "url": "https://search.linkspreed.com",
     "icon": "https://icons.duckduckgo.com/ip3/search.linkspreed.com.ico",
     "slug": "search",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 10129,
-    "timeDay": 12156,
-    "timeWeek": 9534,
-    "timeMonth": 10129,
-    "timeYear": 10129,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 10142,
+    "timeDay": 12416,
+    "timeWeek": 9589,
+    "timeMonth": 10142,
+    "timeYear": 10142,
     "dailyMinutesDown": {
-      "2026-09-28": 1
+      "2026-09-28": 3
     }
   },
   {
@@ -464,8 +464,8 @@
     "slug": "status",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.76%",
     "time": 129,
@@ -475,7 +475,7 @@
     "timeYear": 129,
     "dailyMinutesDown": {
       "2026-08-30": 94,
-      "2026-09-28": 3
+      "2026-09-28": 5
     }
   },
   {
