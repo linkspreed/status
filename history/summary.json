@@ -40,19 +40,19 @@
     "url": "https://trive.web4.one",
     "icon": "https://icons.duckduckgo.com/ip3/trive.web4.one.ico",
     "slug": "trive-web4",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 191,
-    "timeDay": 162,
-    "timeWeek": 283,
+    "timeDay": 161,
+    "timeWeek": 282,
     "timeMonth": 183,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2026-10-19": 5
+      "2026-10-19": 8
     }
   },
   {
@@ -458,8 +458,8 @@
     "slug": "status",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.84%",
     "time": 136,
@@ -470,7 +470,7 @@
     "dailyMinutesDown": {
       "2026-08-30": 94,
       "2026-10-18": 15,
-      "2026-10-19": 7
+      "2026-10-19": 8
     }
   },
   {
