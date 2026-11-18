@@ -1,7 +1,7 @@
 url: https://glacier.linkspreed.com
-status: up
-code: 200
-responseTime: 972
-lastUpdated: 2026-11-18T13:18:16.497Z
+status: down
+code: 429
+responseTime: 192
+lastUpdated: 2026-11-18T13:43:51.843Z
 startTime: 2026-08-30T09:46:10.396Z
 generator: Upptime <https://github.com/upptime/upptime>
