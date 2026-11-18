@@ -184,20 +184,20 @@
     "url": "https://glacier.linkspreed.com",
     "icon": "https://icons.duckduckgo.com/ip3/glacier.linkspreed.com.ico",
     "slug": "glacier",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.20%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "97.90%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
-    "time": 1189,
-    "timeDay": 905,
-    "timeWeek": 1068,
-    "timeMonth": 1178,
-    "timeYear": 1189,
+    "time": 1190,
+    "timeDay": 950,
+    "timeWeek": 1077,
+    "timeMonth": 1180,
+    "timeYear": 1190,
     "dailyMinutesDown": {
       "2026-11-10": 8,
-      "2026-11-18": 26
+      "2026-11-18": 30
     }
   },
   {
@@ -259,20 +259,20 @@
     "url": "https://help.linkspreed.com",
     "icon": "https://icons.duckduckgo.com/ip3/help.linkspreed.com.ico",
     "slug": "help",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.19%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
-    "time": 1025,
-    "timeDay": 1101,
-    "timeWeek": 989,
-    "timeMonth": 1076,
-    "timeYear": 1025,
+    "time": 1026,
+    "timeDay": 1159,
+    "timeWeek": 1003,
+    "timeMonth": 1080,
+    "timeYear": 1026,
     "dailyMinutesDown": {
       "2026-11-10": 8,
-      "2026-11-18": 26
+      "2026-11-18": 30
     }
   },
   {
@@ -426,20 +426,20 @@
     "url": "https://search.linkspreed.com",
     "icon": "https://icons.duckduckgo.com/ip3/search.linkspreed.com.ico",
     "slug": "search",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.17%",
-    "uptimeWeek": "99.74%",
+    "uptimeDay": "97.97%",
+    "uptimeWeek": "99.71%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
-    "time": 10100,
-    "timeDay": 10129,
-    "timeWeek": 10570,
-    "timeMonth": 10239,
-    "timeYear": 10100,
+    "time": 10105,
+    "timeDay": 10358,
+    "timeWeek": 10621,
+    "timeMonth": 10252,
+    "timeYear": 10105,
     "dailyMinutesDown": {
       "2026-11-10": 8,
-      "2026-11-18": 26
+      "2026-11-18": 29
     }
   },
   {
@@ -467,8 +467,8 @@
     "slug": "status",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "97.97%",
-    "uptimeWeek": "99.71%",
+    "uptimeDay": "97.80%",
+    "uptimeWeek": "99.69%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.87%",
     "time": 136,
@@ -480,7 +480,7 @@
       "2026-08-30": 94,
       "2026-10-18": 15,
       "2026-11-10": 9,
-      "2026-11-18": 29
+      "2026-11-18": 32
     }
   },
   {
