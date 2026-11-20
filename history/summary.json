@@ -40,11 +40,11 @@
     "url": "https://trive.web4.one",
     "icon": "https://icons.duckduckgo.com/ip3/trive.web4.one.ico",
     "slug": "trive-web4",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 187,
     "timeDay": 162,
@@ -53,7 +53,7 @@
     "timeYear": 187,
     "dailyMinutesDown": {
       "2026-11-18": 15,
-      "2026-11-20": 3
+      "2026-11-20": 8
     }
   },
   {
@@ -187,22 +187,22 @@
     "url": "https://glacier.linkspreed.com",
     "icon": "https://icons.duckduckgo.com/ip3/glacier.linkspreed.com.ico",
     "slug": "glacier",
-    "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "91.15%",
-    "uptimeWeek": "97.93%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "99.82%",
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "90.89%",
+    "uptimeWeek": "97.90%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.81%",
     "time": 1157,
-    "timeDay": 677,
-    "timeWeek": 898,
-    "timeMonth": 1106,
+    "timeDay": 686,
+    "timeWeek": 899,
+    "timeMonth": 1107,
     "timeYear": 1157,
     "dailyMinutesDown": {
       "2026-11-10": 8,
       "2026-11-18": 37,
       "2026-11-19": 44,
-      "2026-11-20": 127
+      "2026-11-20": 131
     }
   },
   {
@@ -264,22 +264,22 @@
     "url": "https://help.linkspreed.com",
     "icon": "https://icons.duckduckgo.com/ip3/help.linkspreed.com.ico",
     "slug": "help",
-    "status": "down",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "91.19%",
-    "uptimeWeek": "98.10%",
+    "uptimeDay": "90.97%",
+    "uptimeWeek": "98.06%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.83%",
     "time": 1000,
-    "timeDay": 544,
-    "timeWeek": 845,
+    "timeDay": 552,
+    "timeWeek": 846,
     "timeMonth": 1018,
     "timeYear": 1000,
     "dailyMinutesDown": {
       "2026-11-10": 8,
       "2026-11-18": 22,
       "2026-11-19": 44,
-      "2026-11-20": 126
+      "2026-11-20": 129
     }
   },
   {
@@ -413,21 +413,21 @@
     "url": "https://pi.linkspreed.com",
     "icon": "https://icons.duckduckgo.com/ip3/pi.linkspreed.com.ico",
     "slug": "pi",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "94.05%",
-    "uptimeWeek": "98.78%",
+    "uptimeDay": "93.89%",
+    "uptimeWeek": "98.76%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.89%",
-    "time": 303,
+    "time": 302,
     "timeDay": 275,
     "timeWeek": 299,
     "timeMonth": 325,
-    "timeYear": 303,
+    "timeYear": 302,
     "dailyMinutesDown": {
       "2026-11-10": 8,
       "2026-11-19": 37,
-      "2026-11-20": 86
+      "2026-11-20": 88
     }
   },
   {
@@ -435,22 +435,22 @@
     "url": "https://search.linkspreed.com",
     "icon": "https://icons.duckduckgo.com/ip3/search.linkspreed.com.ico",
     "slug": "search",
-    "status": "down",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "91.34%",
-    "uptimeWeek": "98.12%",
-    "uptimeMonth": "99.55%",
+    "uptimeDay": "91.18%",
+    "uptimeWeek": "98.10%",
+    "uptimeMonth": "99.54%",
     "uptimeYear": "99.83%",
-    "time": 10095,
-    "timeDay": 9592,
-    "timeWeek": 10352,
-    "timeMonth": 10370,
-    "timeYear": 10095,
+    "time": 10091,
+    "timeDay": 9463,
+    "timeWeek": 10320,
+    "timeMonth": 10359,
+    "timeYear": 10091,
     "dailyMinutesDown": {
       "2026-11-10": 8,
       "2026-11-18": 22,
       "2026-11-19": 43,
-      "2026-11-20": 124
+      "2026-11-20": 126
     }
   },
   {
@@ -478,8 +478,8 @@
     "slug": "status",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "90.72%",
-    "uptimeWeek": "97.85%",
+    "uptimeDay": "90.59%",
+    "uptimeWeek": "97.83%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.72%",
     "time": 136,
@@ -493,7 +493,7 @@
       "2026-11-10": 9,
       "2026-11-18": 38,
       "2026-11-19": 46,
-      "2026-11-20": 133
+      "2026-11-20": 135
     }
   },
   {
