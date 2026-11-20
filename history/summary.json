@@ -41,19 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/trive.web4.one.ico",
     "slug": "trive-web4",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 187,
-    "timeDay": 165,
+    "timeDay": 163,
     "timeWeek": 184,
     "timeMonth": 178,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2026-11-18": 15,
-      "2026-11-20": 13
+      "2026-11-18": 15
     }
   },
   {
@@ -187,22 +186,22 @@
     "url": "https://glacier.linkspreed.com",
     "icon": "https://icons.duckduckgo.com/ip3/glacier.linkspreed.com.ico",
     "slug": "glacier",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "91.95%",
-    "uptimeWeek": "98.05%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.83%",
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "91.42%",
+    "uptimeWeek": "97.97%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.82%",
     "time": 1158,
-    "timeDay": 698,
-    "timeWeek": 903,
+    "timeDay": 702,
+    "timeWeek": 901,
     "timeMonth": 1109,
     "timeYear": 1158,
     "dailyMinutesDown": {
       "2026-11-10": 8,
       "2026-11-18": 37,
       "2026-11-19": 44,
-      "2026-11-20": 115
+      "2026-11-20": 123
     }
   },
   {
@@ -264,14 +263,14 @@
     "url": "https://help.linkspreed.com",
     "icon": "https://icons.duckduckgo.com/ip3/help.linkspreed.com.ico",
     "slug": "help",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "91.98%",
-    "uptimeWeek": "98.21%",
-    "uptimeMonth": "99.57%",
+    "uptimeDay": "91.48%",
+    "uptimeWeek": "98.14%",
+    "uptimeMonth": "99.55%",
     "uptimeYear": "99.84%",
     "time": 1001,
-    "timeDay": 681,
+    "timeDay": 676,
     "timeWeek": 847,
     "timeMonth": 1020,
     "timeYear": 1001,
@@ -279,7 +278,7 @@
       "2026-11-10": 8,
       "2026-11-18": 22,
       "2026-11-19": 44,
-      "2026-11-20": 115
+      "2026-11-20": 122
     }
   },
   {
@@ -413,21 +412,21 @@
     "url": "https://pi.linkspreed.com",
     "icon": "https://icons.duckduckgo.com/ip3/pi.linkspreed.com.ico",
     "slug": "pi",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "94.82%",
-    "uptimeWeek": "98.89%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.90%",
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "94.39%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.89%",
     "time": 303,
-    "timeDay": 279,
+    "timeDay": 278,
     "timeWeek": 300,
     "timeMonth": 325,
     "timeYear": 303,
     "dailyMinutesDown": {
       "2026-11-10": 8,
       "2026-11-19": 37,
-      "2026-11-20": 75
+      "2026-11-20": 81
     }
   },
   {
@@ -435,22 +434,22 @@
     "url": "https://search.linkspreed.com",
     "icon": "https://icons.duckduckgo.com/ip3/search.linkspreed.com.ico",
     "slug": "search",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "92.05%",
-    "uptimeWeek": "98.22%",
-    "uptimeMonth": "99.57%",
+    "uptimeDay": "91.60%",
+    "uptimeWeek": "98.16%",
+    "uptimeMonth": "99.56%",
     "uptimeYear": "99.84%",
-    "time": 10086,
-    "timeDay": 9664,
-    "timeWeek": 10325,
-    "timeMonth": 10361,
-    "timeYear": 10086,
+    "time": 10091,
+    "timeDay": 9798,
+    "timeWeek": 10355,
+    "timeMonth": 10371,
+    "timeYear": 10091,
     "dailyMinutesDown": {
       "2026-11-10": 8,
       "2026-11-18": 22,
       "2026-11-19": 43,
-      "2026-11-20": 114
+      "2026-11-20": 120
     }
   },
   {
@@ -477,11 +476,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.linkspreed.com.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "91.58%",
-    "uptimeWeek": "97.97%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "99.73%",
+    "uptime": "99.72%",
+    "uptimeDay": "91.17%",
+    "uptimeWeek": "97.91%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.72%",
     "time": 136,
     "timeDay": 124,
     "timeWeek": 141,
@@ -493,7 +492,7 @@
       "2026-11-10": 9,
       "2026-11-18": 38,
       "2026-11-19": 46,
-      "2026-11-20": 122
+      "2026-11-20": 127
     }
   },
   {
