@@ -40,20 +40,20 @@
     "url": "https://trive.web4.one",
     "icon": "https://icons.duckduckgo.com/ip3/trive.web4.one.ico",
     "slug": "trive-web4",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 187,
-    "timeDay": 173,
+    "timeDay": 171,
     "timeWeek": 186,
     "timeMonth": 179,
     "timeYear": 187,
     "dailyMinutesDown": {
       "2026-11-18": 15,
-      "2026-11-20": 3
+      "2026-11-20": 8
     }
   },
   {
@@ -188,13 +188,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/glacier.linkspreed.com.ico",
     "slug": "glacier",
     "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "94.40%",
-    "uptimeWeek": "98.40%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.86%",
+    "uptime": "99.85%",
+    "uptimeDay": "93.83%",
+    "uptimeWeek": "98.32%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.85%",
     "time": 1159,
-    "timeDay": 698,
+    "timeDay": 705,
     "timeWeek": 906,
     "timeMonth": 1111,
     "timeYear": 1159,
@@ -202,7 +202,7 @@
       "2026-11-10": 8,
       "2026-11-18": 37,
       "2026-11-19": 44,
-      "2026-11-20": 80
+      "2026-11-20": 88
     }
   },
   {
@@ -265,13 +265,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/help.linkspreed.com.ico",
     "slug": "help",
     "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "94.42%",
-    "uptimeWeek": "98.56%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.86%",
+    "uptimeDay": "93.85%",
+    "uptimeWeek": "98.48%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.86%",
     "time": 1002,
-    "timeDay": 685,
+    "timeDay": 692,
     "timeWeek": 850,
     "timeMonth": 1021,
     "timeYear": 1002,
@@ -279,7 +279,7 @@
       "2026-11-10": 8,
       "2026-11-18": 22,
       "2026-11-19": 44,
-      "2026-11-20": 80
+      "2026-11-20": 89
     }
   },
   {
@@ -413,21 +413,21 @@
     "url": "https://pi.linkspreed.com",
     "icon": "https://icons.duckduckgo.com/ip3/pi.linkspreed.com.ico",
     "slug": "pi",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "96.28%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.92%",
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "96.07%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.91%",
     "time": 303,
-    "timeDay": 279,
-    "timeWeek": 302,
+    "timeDay": 277,
+    "timeWeek": 301,
     "timeMonth": 326,
     "timeYear": 303,
     "dailyMinutesDown": {
       "2026-11-10": 8,
       "2026-11-19": 37,
-      "2026-11-20": 54
+      "2026-11-20": 57
     }
   },
   {
@@ -437,12 +437,12 @@
     "slug": "search",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "94.47%",
-    "uptimeWeek": "98.57%",
-    "uptimeMonth": "99.65%",
+    "uptimeDay": "93.90%",
+    "uptimeWeek": "98.49%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "99.87%",
     "time": 10091,
-    "timeDay": 9425,
+    "timeDay": 9551,
     "timeWeek": 10390,
     "timeMonth": 10362,
     "timeYear": 10091,
@@ -450,7 +450,7 @@
       "2026-11-10": 8,
       "2026-11-18": 22,
       "2026-11-19": 43,
-      "2026-11-20": 79
+      "2026-11-20": 87
     }
   },
   {
@@ -477,11 +477,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.linkspreed.com.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "94.09%",
-    "uptimeWeek": "98.33%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.76%",
+    "uptime": "99.75%",
+    "uptimeDay": "93.52%",
+    "uptimeWeek": "98.25%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.75%",
     "time": 136,
     "timeDay": 130,
     "timeWeek": 141,
@@ -493,7 +493,7 @@
       "2026-11-10": 9,
       "2026-11-18": 38,
       "2026-11-19": 46,
-      "2026-11-20": 85
+      "2026-11-20": 94
     }
   },
   {
