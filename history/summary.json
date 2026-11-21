@@ -189,21 +189,21 @@
     "slug": "glacier",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "90.35%",
-    "uptimeWeek": "97.13%",
+    "uptimeDay": "90.46%",
+    "uptimeWeek": "97.14%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.75%",
     "time": 1140,
     "timeDay": 623,
-    "timeWeek": 838,
-    "timeMonth": 1071,
+    "timeWeek": 836,
+    "timeMonth": 1070,
     "timeYear": 1140,
     "dailyMinutesDown": {
       "2026-11-10": 8,
       "2026-11-18": 37,
       "2026-11-19": 44,
       "2026-11-20": 123,
-      "2026-11-21": 84
+      "2026-11-21": 83
     }
   },
   {
@@ -267,21 +267,21 @@
     "slug": "help",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "90.47%",
-    "uptimeWeek": "97.31%",
-    "uptimeMonth": "99.36%",
+    "uptimeDay": "90.57%",
+    "uptimeWeek": "97.32%",
+    "uptimeMonth": "99.37%",
     "uptimeYear": "99.77%",
-    "time": 985,
-    "timeDay": 521,
-    "timeWeek": 776,
-    "timeMonth": 984,
-    "timeYear": 985,
+    "time": 984,
+    "timeDay": 515,
+    "timeWeek": 773,
+    "timeMonth": 982,
+    "timeYear": 984,
     "dailyMinutesDown": {
       "2026-11-10": 8,
       "2026-11-18": 22,
       "2026-11-19": 44,
       "2026-11-20": 122,
-      "2026-11-21": 84
+      "2026-11-21": 83
     }
   },
   {
@@ -417,20 +417,20 @@
     "slug": "pi",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "91.54%",
-    "uptimeWeek": "98.01%",
+    "uptimeDay": "91.64%",
+    "uptimeWeek": "98.03%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.83%",
     "time": 301,
-    "timeDay": 244,
-    "timeWeek": 288,
-    "timeMonth": 322,
+    "timeDay": 242,
+    "timeWeek": 287,
+    "timeMonth": 321,
     "timeYear": 301,
     "dailyMinutesDown": {
       "2026-11-10": 8,
       "2026-11-19": 37,
       "2026-11-20": 81,
-      "2026-11-21": 83
+      "2026-11-21": 81
     }
   },
   {
@@ -440,21 +440,21 @@
     "slug": "search",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "91.94%",
-    "uptimeWeek": "97.54%",
+    "uptimeDay": "92.02%",
+    "uptimeWeek": "97.55%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "99.79%",
-    "time": 10070,
-    "timeDay": 9976,
-    "timeWeek": 10001,
-    "timeMonth": 10303,
-    "timeYear": 10070,
+    "time": 10078,
+    "timeDay": 10200,
+    "timeWeek": 10054,
+    "timeMonth": 10323,
+    "timeYear": 10078,
     "dailyMinutesDown": {
       "2026-11-10": 8,
       "2026-11-18": 22,
       "2026-11-19": 43,
       "2026-11-20": 120,
-      "2026-11-21": 63
+      "2026-11-21": 62
     }
   },
   {
@@ -482,8 +482,8 @@
     "slug": "status",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "89.84%",
-    "uptimeWeek": "97.01%",
+    "uptimeDay": "89.92%",
+    "uptimeWeek": "97.02%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "99.65%",
     "time": 136,
@@ -498,7 +498,7 @@
       "2026-11-18": 38,
       "2026-11-19": 46,
       "2026-11-20": 127,
-      "2026-11-21": 92
+      "2026-11-21": 91
     }
   },
   {
