@@ -1,7 +1,7 @@
 url: https://pi.linkspreed.com
-status: up
-code: 200
-responseTime: 161
-lastUpdated: 2026-11-21T00:21:49.582Z
+status: down
+code: 429
+responseTime: 81
+lastUpdated: 2026-11-21T00:39:52.863Z
 startTime: 2026-08-30T09:46:29.617Z
 generator: Upptime <https://github.com/upptime/upptime>
