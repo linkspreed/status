@@ -1,7 +1,7 @@
 url: https://trive.web4.one
-status: up
-code: 200
-responseTime: 265
-lastUpdated: 2026-11-21T08:45:44.927Z
+status: down
+code: 429
+responseTime: 141
+lastUpdated: 2026-11-21T09:03:37.717Z
 startTime: 2026-08-30T09:45:27.030Z
 generator: Upptime <https://github.com/upptime/upptime>
