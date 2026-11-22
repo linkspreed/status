@@ -187,15 +187,15 @@
     "url": "https://glacier.linkspreed.com",
     "icon": "https://icons.duckduckgo.com/ip3/glacier.linkspreed.com.ico",
     "slug": "glacier",
-    "status": "down",
-    "uptime": "99.71%",
-    "uptimeDay": "94.36%",
-    "uptimeWeek": "96.56%",
-    "uptimeMonth": "99.19%",
-    "uptimeYear": "99.71%",
+    "status": "up",
+    "uptime": "99.70%",
+    "uptimeDay": "94.11%",
+    "uptimeWeek": "96.52%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "99.70%",
     "time": 1126,
     "timeDay": 631,
-    "timeWeek": 792,
+    "timeWeek": 793,
     "timeMonth": 1042,
     "timeYear": 1126,
     "dailyMinutesDown": {
@@ -204,7 +204,7 @@
       "2026-11-19": 44,
       "2026-11-20": 123,
       "2026-11-21": 121,
-      "2026-11-22": 21
+      "2026-11-22": 24
     }
   },
   {
@@ -266,24 +266,24 @@
     "url": "https://help.linkspreed.com",
     "icon": "https://icons.duckduckgo.com/ip3/help.linkspreed.com.ico",
     "slug": "help",
-    "status": "down",
+    "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "94.39%",
-    "uptimeWeek": "96.74%",
-    "uptimeMonth": "99.23%",
+    "uptimeDay": "94.17%",
+    "uptimeWeek": "96.70%",
+    "uptimeMonth": "99.22%",
     "uptimeYear": "99.72%",
-    "time": 971,
-    "timeDay": 463,
-    "timeWeek": 718,
-    "timeMonth": 951,
-    "timeYear": 971,
+    "time": 970,
+    "timeDay": 450,
+    "timeWeek": 717,
+    "timeMonth": 950,
+    "timeYear": 970,
     "dailyMinutesDown": {
       "2026-11-10": 8,
       "2026-11-18": 22,
       "2026-11-19": 44,
       "2026-11-20": 122,
       "2026-11-21": 121,
-      "2026-11-22": 21
+      "2026-11-22": 24
     }
   },
   {
@@ -417,14 +417,14 @@
     "url": "https://pi.linkspreed.com",
     "icon": "https://icons.duckduckgo.com/ip3/pi.linkspreed.com.ico",
     "slug": "pi",
-    "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "97.42%",
-    "uptimeWeek": "97.87%",
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "97.26%",
+    "uptimeWeek": "97.85%",
     "uptimeMonth": "99.49%",
-    "uptimeYear": "99.82%",
+    "uptimeYear": "99.81%",
     "time": 299,
-    "timeDay": 206,
+    "timeDay": 205,
     "timeWeek": 281,
     "timeMonth": 315,
     "timeYear": 299,
@@ -433,7 +433,7 @@
       "2026-11-19": 37,
       "2026-11-20": 81,
       "2026-11-21": 76,
-      "2026-11-22": 22
+      "2026-11-22": 24
     }
   },
   {
@@ -441,24 +441,24 @@
     "url": "https://search.linkspreed.com",
     "icon": "https://icons.duckduckgo.com/ip3/search.linkspreed.com.ico",
     "slug": "search",
-    "status": "down",
+    "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "94.54%",
-    "uptimeWeek": "96.96%",
+    "uptimeDay": "94.39%",
+    "uptimeWeek": "96.94%",
     "uptimeMonth": "99.28%",
     "uptimeYear": "99.74%",
-    "time": 10126,
-    "timeDay": 11614,
-    "timeWeek": 10350,
-    "timeMonth": 10455,
-    "timeYear": 10126,
+    "time": 10122,
+    "timeDay": 11382,
+    "timeWeek": 10325,
+    "timeMonth": 10444,
+    "timeYear": 10122,
     "dailyMinutesDown": {
       "2026-11-10": 8,
       "2026-11-18": 22,
       "2026-11-19": 43,
       "2026-11-20": 120,
       "2026-11-21": 100,
-      "2026-11-22": 21
+      "2026-11-22": 23
     }
   },
   {
@@ -486,8 +486,8 @@
     "slug": "status",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "93.99%",
-    "uptimeWeek": "96.40%",
+    "uptimeDay": "93.86%",
+    "uptimeWeek": "96.38%",
     "uptimeMonth": "99.15%",
     "uptimeYear": "99.60%",
     "time": 136,
@@ -503,7 +503,7 @@
       "2026-11-19": 46,
       "2026-11-20": 127,
       "2026-11-21": 129,
-      "2026-11-22": 25
+      "2026-11-22": 27
     }
   },
   {
@@ -555,7 +555,7 @@
     "uptimeYear": "99.99%",
     "time": 427,
     "timeDay": 313,
-    "timeWeek": 407,
+    "timeWeek": 408,
     "timeMonth": 418,
     "timeYear": 427,
     "dailyMinutesDown": {
@@ -593,7 +593,7 @@
     "uptimeYear": "100.00%",
     "time": 195,
     "timeDay": 135,
-    "timeWeek": 180,
+    "timeWeek": 181,
     "timeMonth": 234,
     "timeYear": 195,
     "dailyMinutesDown": {}
@@ -611,7 +611,7 @@
     "uptimeYear": "100.00%",
     "time": 176,
     "timeDay": 129,
-    "timeWeek": 177,
+    "timeWeek": 178,
     "timeMonth": 179,
     "timeYear": 176,
     "dailyMinutesDown": {}
