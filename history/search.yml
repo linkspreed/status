@@ -1,7 +1,7 @@
 url: https://search.linkspreed.com
-status: up
-code: 200
-responseTime: 19564
-lastUpdated: 2026-11-22T08:29:20.971Z
+status: down
+code: 429
+responseTime: 63
+lastUpdated: 2026-11-22T08:55:00.768Z
 startTime: 2026-08-30T09:46:30.945Z
 generator: Upptime <https://github.com/upptime/upptime>
