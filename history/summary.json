@@ -188,11 +188,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/glacier.linkspreed.com.ico",
     "slug": "glacier",
     "status": "down",
-    "uptime": "98.19%",
+    "uptime": "98.18%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "77.97%",
-    "uptimeMonth": "94.91%",
-    "uptimeYear": "98.19%",
+    "uptimeWeek": "77.89%",
+    "uptimeMonth": "94.89%",
+    "uptimeYear": "98.18%",
     "time": 1111,
     "timeDay": 149,
     "timeWeek": 709,
@@ -205,7 +205,7 @@
       "2026-11-20": 123,
       "2026-11-21": 121,
       "2026-11-22": 509,
-      "2026-11-23": 1385
+      "2026-11-23": 1393
     }
   },
   {
@@ -269,7 +269,7 @@
     "slug": "help",
     "status": "up",
     "uptime": "98.67%",
-    "uptimeDay": "40.05%",
+    "uptimeDay": "40.62%",
     "uptimeWeek": "83.87%",
     "uptimeMonth": "96.27%",
     "uptimeYear": "98.67%",
@@ -419,11 +419,11 @@
     "url": "https://pi.linkspreed.com",
     "icon": "https://icons.duckduckgo.com/ip3/pi.linkspreed.com.ico",
     "slug": "pi",
-    "status": "down",
+    "status": "up",
     "uptime": "98.48%",
-    "uptimeDay": "14.53%",
-    "uptimeWeek": "81.51%",
-    "uptimeMonth": "95.73%",
+    "uptimeDay": "14.92%",
+    "uptimeWeek": "81.48%",
+    "uptimeMonth": "95.72%",
     "uptimeYear": "98.48%",
     "time": 296,
     "timeDay": 217,
@@ -436,7 +436,7 @@
       "2026-11-20": 81,
       "2026-11-21": 76,
       "2026-11-22": 494,
-      "2026-11-23": 1177
+      "2026-11-23": 1180
     }
   },
   {
@@ -447,8 +447,8 @@
     "status": "down",
     "uptime": "98.22%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "78.38%",
-    "uptimeMonth": "95.01%",
+    "uptimeWeek": "78.30%",
+    "uptimeMonth": "94.99%",
     "uptimeYear": "98.22%",
     "time": 10278,
     "timeDay": 21241,
@@ -462,7 +462,7 @@
       "2026-11-20": 120,
       "2026-11-21": 100,
       "2026-11-22": 506,
-      "2026-11-23": 1387
+      "2026-11-23": 1395
     }
   },
   {
@@ -489,11 +489,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.linkspreed.com.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.09%",
+    "uptime": "98.08%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "77.81%",
-    "uptimeMonth": "94.87%",
-    "uptimeYear": "98.09%",
+    "uptimeWeek": "77.72%",
+    "uptimeMonth": "94.85%",
+    "uptimeYear": "98.08%",
     "time": 137,
     "timeDay": 154,
     "timeWeek": 147,
@@ -508,7 +508,7 @@
       "2026-11-20": 127,
       "2026-11-21": 129,
       "2026-11-22": 511,
-      "2026-11-23": 1388
+      "2026-11-23": 1396
     }
   },
   {
